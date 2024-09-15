@@ -9,7 +9,4 @@
     "name": "Hamidreza Karamian"
   },
   "type": "library",
-  "dependencies": {
-    "com.cysharp.unitask": "2.5.5"
-  }
 }
